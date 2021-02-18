@@ -26,7 +26,7 @@ the frontend and [DigiDoc4j](https://github.com/open-eid/digidoc4j) on the backe
      * If you want to use some other port, then you must put additional parameter to command line, for example `java -jar digidoc4j-hwcrypto-demo-1.0.7-SNAPSHOT.war --server.port=8085`.
    * Make sure that you have installed [the software necessary for electronic use of the ID-card](https://installer.id.ee/)
    into client computer.
-   * For signing documents use [test ID-card](http://www.id.ee/?lang=en&id=30494)
+   * For signing documents use [test ID-card](https://www.id.ee/en/article/service-testing-general-information-2/)
 
 ## HTTPS Connection
 
